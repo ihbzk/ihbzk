@@ -25,6 +25,6 @@ I'm Ilyesse HAMCHERIF, currently working as a Web Developer at BH Internet(https
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ihbzk&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihbzkr&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihbzk&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ihbzk.ihbzk)
