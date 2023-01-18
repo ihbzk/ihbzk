@@ -1,6 +1,6 @@
 ### Hi everyone! 👋
 
-I'm Ilyesse HAMCHERIF, currently working as a Web Developer at BH Internet(https://www.bhinternet.fr/). I am a Full-Stack JavaScript and PHP developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+I'm Ilyesse HAMCHERIF, currently working as a Web Developer at BH Internet(https://www.bhinternet.fr/). I am a Full-Stack developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![Gmail Badge](https://img.shields.io/badge/-contact@ilyessehamcherif.fr-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@ilyessehamcherif.fr)](mailto:contact@ilyessehamcherif.fr)
 [![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ilyessehamcherif/)](https://www.linkedin.com/in/ilyessehamcherif/)
