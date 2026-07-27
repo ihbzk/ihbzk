@@ -1,30 +1,73 @@
-### Hi everyone! 👋
+# Salut, moi c’est Ilyesse 👋
 
-I'm Ilyesse HAMCHERIF, currently working as a Web Developer at BH Internet(https://www.bhinternet.fr/). I am a Full-Stack developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+**Développeur Fullstack** — Symfony · Next.js · TypeScript  
+Île-de-France · ouvert aux opportunités **CDI**
 
-[![Gmail Badge](https://img.shields.io/badge/-contact@ilyessehamcherif.fr-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@ilyessehamcherif.fr)](mailto:contact@ilyessehamcherif.fr)
-[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ilyessehamcherif/)](https://www.linkedin.com/in/ilyessehamcherif/)
-[![Medium Badge](https://img.shields.io/badge/ilyesse-hamcherif-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.ilyessehamcherif.com/)](https://www.ilyessehamcherif.com/)
+Je conçois des applications web propres, maintenables et orientées produit : APIs, interfaces soignées, bases de données optimisées.  
+3 ans d’expérience en agence & freelance · Master Ingénierie du Web (ESGI).
 
+---
 
-## ⚡ Technologies
+### Liens
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ilyessehamcherif.com-111111?style=flat-square&logo=vercel&logoColor=white)](https://www.ilyessehamcherif.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ilyessehamcherif-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilyessehamcherif/)
+[![Email](https://img.shields.io/badge/Email-hamcherif.ilyesse%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hamcherif.ilyesse@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ihbzk-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ihbzk)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ihbzk&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihbzk&hide=TeX&layout=compact)
+---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ihbzk.ihbzk)
+### Stack
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Data & outils**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
+### En ce moment
+
+- 💼 Développement Next.js (freelance) — plateformes RH, dashboards, UX métier
+- 🛠️ Maintenance & évolutions Symfony — logiciels métier / événementiel
+- 🌐 Portfolio : [ilyessehamcherif.com](https://www.ilyessehamcherif.com/) · repo [`ilyessehamcherif.com`](https://github.com/ihbzk/ilyessehamcherif.com)
+
+---
+
+### Stats
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ihbzk&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=111111&icon_color=0A66C2&text_color=333333" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihbzk&layout=compact&theme=transparent&hide_border=true&title_color=111111&text_color=333333" alt="Top languages" />
+</p>
+
+---
+
+### Contact
+
+Envie d’échanger sur un poste Fullstack (Symfony / Next.js) ?  
+→ [hamcherif.ilyesse@gmail.com](mailto:hamcherif.ilyesse@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ilyessehamcherif/)
