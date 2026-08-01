@@ -1,7 +1,7 @@
 # Salut, moi c’est Ilyesse 👋
 
 **Développeur Fullstack** — Symfony · Next.js · TypeScript  
-Île-de-France · ouvert aux opportunités **CDI**
+Île-de-France · **freelance** (missions & devis) · ouvert aux **CDI**
 
 Je conçois des applications web propres, maintenables et orientées produit : APIs, interfaces soignées, bases de données optimisées.  
 3 ans d’expérience en agence & freelance · Master Ingénierie du Web (ESGI).
@@ -12,7 +12,7 @@ Je conçois des applications web propres, maintenables et orientées produit : A
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ilyessehamcherif.com-111111?style=flat-square&logo=vercel&logoColor=white)](https://www.ilyessehamcherif.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ilyessehamcherif-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilyessehamcherif/)
-[![Email](https://img.shields.io/badge/Email-hamcherif.ilyesse%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hamcherif.ilyesse@gmail.com)
+[![Email](https://img.shields.io/badge/Email-contact%40ilyessehamcherif.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@ilyessehamcherif.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ihbzk-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ihbzk)
 
 ---
@@ -54,7 +54,7 @@ Je conçois des applications web propres, maintenables et orientées produit : A
 
 - 💼 Développement Next.js (freelance) — plateformes RH, dashboards, UX métier
 - 🛠️ Maintenance & évolutions Symfony — logiciels métier / événementiel
-- 🌐 Portfolio : [ilyessehamcherif.com](https://www.ilyessehamcherif.com/) · repo [`ilyessehamcherif.com`](https://github.com/ihbzk/ilyessehamcherif.com)
+- 🌐 Portfolio + démos vitrines : [ilyessehamcherif.com](https://www.ilyessehamcherif.com/) · [sites à vendre](https://www.ilyessehamcherif.com/fr/vitrines) · repo [`ilyessehamcherif.com`](https://github.com/ihbzk/ilyessehamcherif.com)
 
 ---
 
@@ -69,5 +69,5 @@ Je conçois des applications web propres, maintenables et orientées produit : A
 
 ### Contact
 
-Envie d’échanger sur un poste Fullstack (Symfony / Next.js) ?  
-→ [hamcherif.ilyesse@gmail.com](mailto:hamcherif.ilyesse@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ilyessehamcherif/)
+Envie d’échanger sur un poste Fullstack (Symfony / Next.js) ou un projet ?  
+→ [contact@ilyessehamcherif.com](mailto:contact@ilyessehamcherif.com) · [LinkedIn](https://www.linkedin.com/in/ilyessehamcherif/) · [Devis / appel 30 min](https://www.ilyessehamcherif.com/fr/contact)
