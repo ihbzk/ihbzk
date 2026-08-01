@@ -60,9 +60,10 @@ Je conçois des applications web propres, maintenables et orientées produit : A
 
 ### Stats
 
+<!-- Instance publique github-readme-stats.vercel.app souvent en 503 — on utilise github-stats-extended -->
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ihbzk&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=111111&icon_color=0A66C2&text_color=333333" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihbzk&layout=compact&theme=transparent&hide_border=true&title_color=111111&text_color=333333" alt="Top languages" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api?username=ihbzk&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&title_color=e6edf3&icon_color=58a6ff&text_color=c9d1d9&bg_color=00000000" alt="GitHub stats" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ihbzk&layout=compact&langs_count=6&theme=dark&hide_border=true&title_color=e6edf3&text_color=c9d1d9&bg_color=00000000" alt="Top languages" />
 </p>
 
 ---
